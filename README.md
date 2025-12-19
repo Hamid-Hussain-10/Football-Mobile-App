@@ -1,50 +1,56 @@
-# Welcome to your Expo app 👋
+Football Mobile App ⚽
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A modern football mobile application built using React Native and Expo.  
+The app focuses on clean UI, smooth navigation, and a responsive user experience.
 
-## Get started
+🚀 Features
+- Modern football app UI
+- Cross-platform support (Android & iOS)
+- Clean and reusable components
+- Fast performance with Expo
+- Scalable project structure
 
-1. Install dependencies
+🛠 Tech Stack
+- React Native
+- Expo
+- JavaScript
+- Expo Router
 
-   ```bash
-   npm install
-   ```
+📸 Screenshots
+Menu:
+<img width="1200" height="1200" alt="1" src="https://github.com/user-attachments/assets/9a9c0d6e-4ec5-4171-b565-8ff1161f72c5" />
+Home:
+<img width="1200" height="1200" alt="2" src="https://github.com/user-attachments/assets/f9307442-e79b-4162-bbde-648027a281e4" />
+Tournament Detail:
+<img width="1200" height="1200" alt="3" src="https://github.com/user-attachments/assets/0f7864c8-79ee-473b-ab15-f02aaaeb922c" />
+Player:
+<img width="1200" height="1200" alt="4" src="https://github.com/user-attachments/assets/e72ec4da-8763-481d-80de-9fdd9e93ddc7" />
+Team:
+<img width="1200" height="1200" alt="5" src="https://github.com/user-attachments/assets/0842864a-de71-4341-b5ce-bbc1093ac74a" />
+Matches:
+<img width="1200" height="1200" alt="6" src="https://github.com/user-attachments/assets/b3b1dec2-8535-4202-ba7c-be3a83bd0b5b" />
+PointsTable:
+<img width="1200" height="1200" alt="7" src="https://github.com/user-attachments/assets/92f9fa72-14a8-4aeb-af63-bd981e232899" />
+Statistics:
+<img width="1200" height="1200" alt="8" src="https://github.com/user-attachments/assets/01589f6c-e8a6-4902-b09f-cae7b1208b6f" />
+Prices:
+<img width="1200" height="1200" alt="9" src="https://github.com/user-attachments/assets/6f30beba-aa03-4fae-bfe2-c4449dee82a1" />
+<img width="1200" height="1200" alt="10" src="https://github.com/user-attachments/assets/e0818d75-a4a2-402b-a5a4-414a331fedf9" />
 
-2. Start the app
+Live Demo:
+https://www.linkedin.com/feed/update/urn:li:activity:7374098290851733504/
 
-   ```bash
-   npx expo start
-   ```
+Installation:
+Clone the repository:  git clone https://github.com/Hamid-Hussain-10/football-mobile-app.git
 
-In the output, you'll find options to open the app in a
+Install dependencies:
+npm install
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Run the app:
+npx expo start
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+📬 Contact
+Hamid Hussain
+Frontend & Mobile App Developer  
+Portfolio: https://hamid-hussain.netlify.app  
+GitHub: https://github.com/Hamid-Hussain-10
